@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @harunabdullahrakin / Harun Abdullah Rakin
 - 💝・Nationality: Bangladesi
-- 👀・Hobby:- Working & Sleeping 
-- 📫・E-Mail:- harunabdullahrakin@gmail.com
+- 
+[Discord](https://discord-readme-badge.vercel.app/api?id=941207098434416700)
+
+Email Me: [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com)
+
+
 
 Portfolio: 
     https://my.mrbeak.xyz
