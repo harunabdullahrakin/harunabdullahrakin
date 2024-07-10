@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @harunabdullahrakin / Harun Abdullah Rakin
-- 💝・Nationality: Bangladesi
-- 
-https://discord-readme-badge.vercel.app/api?id=941207098434416700
+# 👋 Hi, I’m Harun Abdullah Rakin
 
 Email Me: [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com)
 
 
+## Current Projects
+- [New Portfolio#2]
+- [MineeBoxx Network]
 
-Portfolio: 
-    https://my.mrbeak.xyz
- Else:
-    https://harun.likesyou.org
 
