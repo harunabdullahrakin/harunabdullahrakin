@@ -4,6 +4,7 @@ Email Me: [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com)
 
 
 ## Current Projects
-- [IRL]
+- [Next.js]
+- [Cherrytown.line.pm]
 
 
