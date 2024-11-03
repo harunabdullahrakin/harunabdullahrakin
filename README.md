@@ -3,7 +3,6 @@
 Email Me: [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com)
 
 
-## Current Projects
-- [Nothing atm]
+
 
 
