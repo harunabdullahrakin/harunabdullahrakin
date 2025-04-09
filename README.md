@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Abdullah</h1>
-- 🔭 I’m currently working on [Amar World](https://amarworld.me)
+- 🔭 I’m currently on a break
 
 - 🤝 I’m looking for help with **Minecraft servers & pterodactyl based hosting companies**
 
