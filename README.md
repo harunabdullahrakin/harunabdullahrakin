@@ -1,8 +1,8 @@
 
 # 👋 Hello There, Im Harun
 
-## 🌟 Learn more about me at [Portfolio](https://harunabdullah.is-a.dev) 
-## ✉️ Feel free to mail me at [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com) <br/>
+ 🌟 Learn more about me at [Portfolio](https://harunabdullah.is-a.dev) 
+ ✉️ Feel free to mail me at [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com) <br/>
 
 # 🔥 Streak 
 ![](https://nirzak-streak-stats.vercel.app/?user=harunabdullahrakin&theme=dark&hide_border=false)<br/>
