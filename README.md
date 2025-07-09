@@ -1,7 +1,7 @@
 
 # 👋 Hello There, Im Harun
 
- 🌟 Learn more about me at [Portfolio](https://harunabdullah.is-a.dev) 
+ 🌟 Learn more about me at [Portfolio](https://harunabdullah.is-a.dev) <br/>
  ✉️ Feel free to mail me at [harunabdullahrakin@gmail.com](mailto:harunabdullahrakin@gmail.com) <br/>
 
 # 🔥 Streak 
